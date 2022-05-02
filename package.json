@@ -1,0 +1,24 @@
+{
+  "name": "bladelist.gg-red",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BladeBotList/bladelist.gg-red.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BladeBotList/bladelist.gg-red/issues"
+  },
+  "homepage": "https://github.com/BladeBotList/bladelist.gg-red#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}
